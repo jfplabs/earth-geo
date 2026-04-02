@@ -1,0 +1,18 @@
+{
+  "name": "earthgeo",
+  "version": "1.0.0",
+  "description": "Earth Geo — Explore the world through drone footage",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  }
+}
